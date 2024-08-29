@@ -1,6 +1,3 @@
-/**
- * VIDEO NO. 272 OBTENER LAS CATEGORIAS
- */
 document.addEventListener("DOMContentLoaded", iniciarApp);
 
 //Funcion que inicia el proyecto 
